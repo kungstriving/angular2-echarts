@@ -1,6 +1,9 @@
 <a name="1.1.7"></a>
 ## [1.1.7](https://github.com/xieziyu/angular2-echarts/compare/v1.1.6...v1.1.7) (2017-05-10)
 
+
+
+
 ### New
 + Support `theme`. Refer to: [http://echarts.baidu.com/download-theme.html](http://echarts.baidu.com/download-theme.html)
 
